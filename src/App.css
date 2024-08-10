@@ -1,0 +1,16 @@
+.body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #196c51;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  justify-items: center;
+  align-items: flex-end;
+}
+
+.app-container{
+  width: fit-content;
+  height: fit-content;
+}

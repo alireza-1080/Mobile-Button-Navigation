@@ -1,0 +1,9 @@
+.mobile-navigation-section-container {
+    background-color: #fff;
+    padding: 0.7rem 4rem;
+    border-radius: 1rem;
+
+    display: grid;
+    grid-auto-flow: column;
+    column-gap: 4rem;
+}
